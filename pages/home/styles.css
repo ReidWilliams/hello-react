@@ -1,0 +1,18 @@
+/**
+ * React Static Boilerplate
+ * https://github.com/koistya/react-static-boilerplate
+ *
+ * Copyright © 2015-2016 Konstantin Tarkus (@koistya)
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+/** local stylse can still inheret properties from global styles (or any style in another
+file) using composes keyword */
+.cardContainer {
+	composes: unit from './../../styles/grid.css';
+	composes: size1of4 from './../../styles/grid.css';
+}
+
+
