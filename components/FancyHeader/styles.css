@@ -1,0 +1,14 @@
+.fancyLine {
+	display: inline;
+	content: "";
+	display: inline-block;
+	vertical-align: middle;
+	width: 46px;
+	height: 1px;
+	background: #c0d3da;
+	margin: 0 30px;
+}
+
+
+
+

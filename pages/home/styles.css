@@ -1,5 +1,8 @@
-.post {
-	composes: post from '../../styles/global.css';
+.paragraphs {
+	composes: paragraphs from '../../styles/global.css';
 }
 
+.slide {
+	height: 100vh;
+}
 

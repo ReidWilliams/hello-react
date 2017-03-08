@@ -10,24 +10,25 @@ h1 {
   -webkit-font-feature-settings: "kern","liga","dlig","hlig","cswh";
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   font-synthesis: weight style;
-  font-size: 2em;
+  font-size: 3em;
   line-height: 1.4;
-  margin: 2em auto 0 auto;
+  margin: 3em auto 2em auto;
   text-align: center;
-  margin-top: 3em;
+  /*margin-top: 3em;*/
 }
 
 p {
   text-align: center;
   font-family: "Roboto",sans-serif;
   font-weight: 400;
+  font-size: 1.2em;
   margin: 1.5em 0;
   line-height: 1.7;
   color: #555;
 }
 
-.post {
-  max-width: 620px;
+.paragraphs {
+  max-width: 500px;
   margin: 0 auto;
 }
 
