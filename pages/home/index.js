@@ -15,7 +15,7 @@ class HomePage extends Component {
           <div className={s.cardContainer}>
             <Card
               target="/stupid-tree"
-              header="!!!!!!!!!Idiotic Tree K eeps Trying To Plant Seeds On Sidewalk"
+              header="kajsdkfdkIdiotic Tree K eeps Trying To Plant Seeds On Sidewalk"
               body="PORTLAND, OR—Pointing out that the total dipshit had dropped
                 dozens of acorns all along the length of pavement, sources
                 confirmed Thursday that a completely idiotic tree keeps trying

@@ -91,6 +91,6 @@
     "clean": "node run clean",
     "build": "node run build",
     "build:debug": "node run build --debug",
-    "start": "node run"
+    "start": "webpack-dev-server --debug --hot --inline --config ./webpack.config.js"
   }
 }

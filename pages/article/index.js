@@ -16,14 +16,14 @@ class Article extends Component {
         </div>
         <div className={gs.line}>
           <div className={s.articleBody}>
-            PPPPPORTLAND, OR—Pointing out that the total dipshit had dropped dozens
+            dfdfdfR—Pointing out that the total dipshit had dropped dozens
             of acorns all along the length of pavement, sources confirmed Thursday
             that a completely idiotic tree keeps trying to plant seeds on the sidewalk.
             “Come on, you fucking moron, what are you doing? That’s concrete,” said local
             pedestrian Frank Brogden, who shook his head while pondering why the
             dumbshit California black oak was stupid enough to believe its saplings
             could grow in an area devoid of soil, nutrients, and water. “Oh, yeah,
-            I can’t wait to see the tree sprouting right up in the middle of 5-inch-thick cement.
+            I can’t wait toadfd see the tree sprouting right up in the middle of 5-inch-thick cement.
              The dirt’s that way, Einstein.” At press time, Brogden was reportedly overheard
              muttering “What the fuck?” under his breath as the tree attempted to plant
              a seed on a parked car.
