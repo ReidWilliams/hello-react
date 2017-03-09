@@ -1,0 +1,22 @@
+.treeContainer {
+	border-top: solid 1px #eef3fa;
+	border-bottom: solid 1px #c7d7ee;
+	border-radius: 4px;
+	background-color: #f4f8f8;
+	padding: 20px 50px;
+	margin: 2.2em -50px;
+}
+
+.iconContainer {
+	margin-top: 5px;
+}
+
+.file,
+.folderClosed,
+.folderOpen,
+.triangleRight,
+.triangleDown {
+	height: 25px;
+	width: 25px;
+}
+

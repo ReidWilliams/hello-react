@@ -6,9 +6,9 @@ class CodeBlock extends Component {
 
   render() {
     return (
-        <pre>
-          <code className={s.fontCode}>{this.props.children}</code>
-        </pre>
+	    <pre>
+	      <code className={s.fontCode}>{this.props.children}</code>
+	    </pre>
     )
   }
 }
